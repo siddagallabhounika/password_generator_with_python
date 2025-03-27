@@ -1,5 +1,7 @@
 Password_Generator_with_python
+
 Sample Output-1
+
 How many passwords do you want to generate? 2
 
 Generating 2 passwords ..........!
@@ -15,6 +17,7 @@ Password #1 = l4dOp
 Password #2 = m9jB
 
 Sample Output-2
+
 How many passwords do you want to generate? 10
 
 Generating 10 passwords ..........!
